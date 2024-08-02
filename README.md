@@ -99,7 +99,7 @@ SNSを活用して、アプリの宣伝を行う。
 　　i18n
 
 ## 画面遷移図のURL
-https://www.figma.com/board/3lrKZVlBvT3HxOC0wcaUiT/AquaLog%EF%BC%88%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3%E3%83%BB%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%95%E3%83%AD%E3%83%BC%EF%BC%89?node-id=0-1&t=eUYLlZTnB4BtVzz6-0
+https://www.figma.com/board/3lrKZVlBvT3HxOC0wcaUiT/AquaLog%EF%BC%88%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3%E3%83%BB%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%95%E3%83%AD%E3%83%BC%EF%BC%89?node-id=0-1&t=RQjQS3HjOE0YwcaM-1
 
 ## UIのURL
-https://www.figma.com/design/hreL7WcaUHmqdwgBUIn89L/AquaLog%EF%BC%88UI%EF%BC%89?node-id=0-1&t=DHEPf345btBioft4-0
+https://www.figma.com/design/hreL7WcaUHmqdwgBUIn89L/AquaLog%EF%BC%88UI%EF%BC%89?node-id=0-1&t=fMiTfdDdP17hD2zP-1
